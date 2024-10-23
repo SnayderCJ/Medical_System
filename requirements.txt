@@ -1,0 +1,15 @@
+asgiref   
+biopython      
+distlib        
+Django        
+filelock     
+numpy         
+pillow        
+pip            
+platformdirs 
+sqlparse     
+tzdata  
+
+# ORM
+django-extensions
+IPython
